@@ -1,0 +1,9 @@
+npx create-expo-app --template
+
+typescript blank
+
+cd folderProject
+
+npm run android
+
+npx expo start
