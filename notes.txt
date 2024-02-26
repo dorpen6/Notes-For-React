@@ -1,0 +1,9 @@
+npm install
+
+npm install react-native-elements
+
+npm install -g expo-cli
+
+expo init reactProject1
+
+/blank first

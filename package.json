@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native": "^0.73.5",
+    "react-native-elements": "^3.4.3"
+  }
+}
